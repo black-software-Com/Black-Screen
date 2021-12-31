@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Black-Screen v1.0 -->
+<ui version="4.0">
+ <class>Black-Screen</class>
+ <widget class="QMainWindow" name="Black-Screen">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>887</width>
+    <height>725</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Black Screen</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">.QWidget{background-color: rgb(25,25, 40);}</string>
+  </property>
+  <widget class="QWidget" name="widget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>891</width>
+     <height>731</height>
+    </rect>
+   </property>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>90</y>
+      <width>271</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel {
+		color: orange;
+}</string>
+    </property>
+    <property name="text">
+     <string>Usage: Ctrl+r For Take Screen Shot</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="tks">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>160</y>
+      <width>211</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="statusTip">
+     <string>Take Screen Shot</string>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">/*Css Code For PushButton*/
+QPushButton {
+        color: #d3d3d3;
+		background-color: rgb(25,25, 40);
+        border: 2px solid orange;
+        border-radius: 5px;
+        padding:5px;
+}
+QPushButton:hover {
+       color: #111111;
+       background-color: orange;
+       border-color: darkorange;
+}</string>
+    </property>
+    <property name="text">
+     <string>Take Screen Shot</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
+<!-- Black Screen v1.0 -->
