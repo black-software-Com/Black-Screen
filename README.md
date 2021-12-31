@@ -46,7 +46,7 @@ and Usage:
 <img src="./Scr/download-logo.png" width=100 height=100 title="Download Black-Screen">
 </a>
 <br><br>
-<a href="https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe" title="Download Python" target="_top>
+<a href="https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe" title="Download Python" target="_top">
 <img src="./Scr/python-logo.png" width=100 height=100 title="Download Python" >
 </a>
 </center>
