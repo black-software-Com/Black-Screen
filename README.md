@@ -10,9 +10,9 @@
 <img src="./Scr/black-screen-scr.jpeg" title="Black-Screen Screen 1">
 
 <img src="./Scr/black-screen-scr2.jpeg"  title="Black-Screen Screen 2">
----
 
 ## Installing
+---
 **Installing On Linux,MacOS**
 ``` sh
 git clone https://github.com/black-software-com/black-screen
