@@ -1,7 +1,9 @@
 # Black-Screen
+<center>
 <a href="https://github.com/black-software-com/black-screen" title="Black-Screen Logo" target="_top" >
 <img src="./Scr/black-screen-logo.png" width=200 height=200 title="Black-Screen Logo">
 </a>
+</center>
 <hr>
 
 ## Scr
