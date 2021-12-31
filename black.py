@@ -5,16 +5,19 @@
 from os import system as command,getlogin
 from sys import argv
 from webbrowser import open_new_tab
-from PyQt5.QtWebEngineWidgets import QWebEngineView
 try:
      from PyQt5.QtWidgets import *
      from PyQt5.QtGui import *
      from PyQt5.QtCore import *
      from PyQt5.uic import loadUi
 
-except (Exception,ImportError):
+except (pip install PyQtWebEngine):
      command("python -m pip install PyQt5")
      command("python -m pip install pyqt5-tools")
+try:
+     from PyQt5.QtWebEngineWidgets import QWebEngineView
+except (Exception,ImportError,ModuleNotFoundError,):
+     command("python -m pip install PyQtWebEngine")
 try:
      import pyautogui
 except (Exception,ImportError,ModuleNotFoundError,):
