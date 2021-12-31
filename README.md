@@ -10,7 +10,7 @@
 <img src="./Scr/black-screen-scr.jpeg" title="Black-Screen Screen 1">
 
 <img src="./Scr/black-screen-scr2.jpeg"  title="Black-Screen Screen 2">
-
+---
 ## Installing
 **Installing On Linux,MacOS**
 ``` sh
@@ -36,6 +36,8 @@ Open Cmd And Go To Black-Screen Directory
 and Usage:
           python black.py
 ```
+---
+<br>
 <center>
 
 <a href="https://github.com/black-software-Com/Black-Screen-Help/archive/refs/heads/master.zip" title="Download Black-Screen">
