@@ -19,7 +19,7 @@ function Main() {
     apt install python3
     apt install python3-pip
     python3 -m pip3 install --upgrade pip
-    python3 -m pip3 install -r requirments.txt
+    python3 -m pip3 install -r requirements.txt
     sleep 1
     echo "
 Usage:
