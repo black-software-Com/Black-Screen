@@ -11,6 +11,7 @@
 
 <img src="./Scr/black-screen-scr2.jpeg"  title="Black-Screen Screen 2">
 ---
+
 ## Installing
 **Installing On Linux,MacOS**
 ``` sh
